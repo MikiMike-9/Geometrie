@@ -1,5 +1,7 @@
 package com.geometrie.etude.figure;
 
+
+
 public class Carre extends Rectangle {
 	
 

@@ -6,7 +6,7 @@ public class Rectangle extends Polygone {
 	// Constante toujours en majuscule "NBR_COTES"
 	private static final int NBR_COTES = 4; 
 	// final resultat ne peut être modifié
-
+	// final sur une classe je peux pas créer de sous-classe
 	
 	private double base;
 	private double hauteur;
